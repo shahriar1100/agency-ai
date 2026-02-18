@@ -7,6 +7,7 @@ import contentMarketingLogo from "./contentMarketingLogo.svg";
 import contentWriting from "./contentWriting.svg";
 import crossIcon from "./cross.svg";
 import darkMoon from "./darkMoon.svg";
+import sunIcon from "./sunIcon.svg";
 import facebook from "./facebook.svg";
 import groupProfile from "./group_profile.png";
 import heroImg from "./hero_img.png";
@@ -56,6 +57,7 @@ const allAssets = {
   contentWriting,
   crossIcon,
   darkMoon,
+  sunIcon,
   facebook,
   groupProfile,
   heroImg,
