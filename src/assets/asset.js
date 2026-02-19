@@ -85,3 +85,30 @@ const allAssets = {
 
 
 export default allAssets
+
+export const teamData = [
+  {
+    name: 'Haley Carter', title: 'CEO & founder', image: allAssets.manLogo1
+  },
+  {
+    name: 'James Walker', title: 'Ads manager', image: allAssets.manLogo1Jpg
+  },
+  {
+    name: 'Jessica Morgan', title: 'Vice president', image: allAssets.manLogo2Jfif
+  },
+  {
+    name: 'Ashley Bennett', title: 'Marketing & sales', image: allAssets.manLogo2Jpg
+  },
+  {
+    name: 'Emily Parker', title: 'Content marketer', image: allAssets.manLogo3Jfif
+  },
+  {
+    name: 'Ryan Mitchell', title: 'Content writer', image: allAssets.manLogo3Jpg
+  },
+  {
+    name: 'Amber Foster', title: 'Senior writer', image: allAssets.manLogo4
+  },
+  {
+    name: 'Megan Brooks', title: 'Performance manager', image: allAssets.manLogo5
+  },
+]

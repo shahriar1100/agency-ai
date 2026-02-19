@@ -1,7 +1,7 @@
 import React from "react";
 import allAssets from "../assets/asset";
-import Title from "./title";
 import ServiceCard from "./ServiceCard";
+import Title from "./Title";
 
 const Services = () => {
     const servicesData =[
