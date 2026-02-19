@@ -25,7 +25,7 @@ const OurWork = () => {
   return (
     <div
       id="ourWork"
-      className="flex flex-col items-center gap-7 px-4 sm:px-12 lg:px-23 xl:px-40 pt-30 text-gray-700 dark:text-white"
+      className="flex flex-col items-center gap-7 px-4 sm:px-12 lg:px-24 xl:px-40 pt-30 text-gray-700 dark:text-white"
     >
         <Title title='Our Latest Work' desc='From strategy to execution, we craft digital solutions that move your business forward.'/>
         
