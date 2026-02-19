@@ -33,7 +33,7 @@ import workMobileApp from "./work_mobile_app-C3Sz8-bL.png";
 import xLogo from "./xLogo.svg";
 import coinbaseLogo from "./coinbase_logo-CuN-aYBu.png";
 import microsoftLogo from "./microsoft_logo-ngD66rvc.png";
-import rakutenLogo from "./rakuten_logo-DDpICR9k.png";
+import rakutenLogo from "./rakuten.png";
 import airbnbLogo from "./airbnb_logo-eEJjcUBX.svg";
 import zoomLogo from "./zoom_logo-CJ6Lb_WO.png";
 import google from "./google.svg";
