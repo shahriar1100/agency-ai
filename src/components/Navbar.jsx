@@ -29,10 +29,10 @@ const Navbar = ({ theme, setTheme }) => {
           <a onClick={()=>setSideBarOpen(false)} href="#services" className="sm:hover:border-b">
             Services
           </a>
-          <a onClick={()=>setSideBarOpen(false)} href="#our-work" className="sm:hover:border-b">
+          <a onClick={()=>setSideBarOpen(false)} href="#ourWork" className="sm:hover:border-b">
             Our Work
           </a>
-          <a onClick={()=>setSideBarOpen(false)} href="#contact-us" className="sm:hover:border-b">
+          <a onClick={()=>setSideBarOpen(false)} href="#contactUs" className="sm:hover:border-b">
             Contact Us
           </a>
         </div>
